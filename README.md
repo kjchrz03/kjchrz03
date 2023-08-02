@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjchrz03
+- 👋 Hi, I’m Karoline
 - 👀 I’m interested in books, hockey, and data science
 - 🌱 I’m always looking to learn more languages and programs
 
